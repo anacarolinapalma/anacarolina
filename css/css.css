@@ -1,0 +1,55 @@
+body {
+	background-color: #FFFFF0
+}
+
+
+.container {
+	margin: auto;
+	width: 1000px;
+}
+h2{
+	text-align: center;
+	background: #FFFFF0;
+	color: black;
+}
+
+#dança{
+	width: 100%;
+    margin: auto;
+    clear: both;
+}
+
+h3{text-align: center;
+	background: #FFFFF0;
+	color: black;
+	
+}
+
+	
+.dança{
+	background: -webkit-gradient(linear, left top, left bottom, from(#F4A460), to(#F4A460));
+	width: 100%;
+	height: auto;
+	float: left;
+}
+
+.outros_beneficios{
+	background: -webkit-gradient(linear, left top, left bottom, from(#F4A460), to(#F4A460));
+	width: 100%;
+	height: auto;
+	float: left;
+}
+
+.beneficios{
+	background: -webkit-gradient(linear, left top, left bottom, from(#F4A460), to(#F4A460));
+	width: 100%;
+	height: auto;
+	float: left;
+}
+footer{
+	clear: both;
+	font-family: "Lucida", "sans-serif";
+	color: black;
+	text-shadow: 0.1em 0.1em 0.2em #fff;
+	text-align: center;
+}
